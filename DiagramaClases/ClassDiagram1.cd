@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DiagramaClases.Persona">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAACAAAQAIIAEAAAAIABAAAAAAACAIQAACAACAAI=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Universidad1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DiagramaClases.Empleado">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramaClases.Universidad1">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAACAABAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Universidad1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramaClases.Padministrativa">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAEAAAAAAEAAAAAAAABAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Padministrativa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramaClases.Docente">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAIAAAAAAAAAAAAAYAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Docente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramaClases.Ordenanza">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAQABAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ordenanza.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiagramaClases.estudiante">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACIAACAAAAAAAAAAAAAAEAAABAAAEAAAAI=</HashCode>
+      <FileName>estudiante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
